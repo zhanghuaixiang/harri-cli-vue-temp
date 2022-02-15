@@ -1,4 +1,4 @@
-# hy-vue-temp
+# harri-cli-vue-temp
 
 ## Project setup
 ```
